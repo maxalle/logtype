@@ -113,10 +113,10 @@ function calc() {
       }
       calcTotal();
     });
-    getDynamicInformation('#height');
-    getDynamicInformation('#weight');
-    getDynamicInformation('#age');
   }
+  getDynamicInformation('#height');
+  getDynamicInformation('#weight');
+  getDynamicInformation('#age');
 }
 
 // module.exports = calc;
