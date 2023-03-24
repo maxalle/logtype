@@ -21,6 +21,7 @@
     "webpack-cli": "^5.0.1"
   },
   "dependencies": {
-    "@babel/polyfill": "^7.12.1"
+    "@babel/polyfill": "^7.12.1",
+    "es6-promise": "^4.2.8"
   }
 }
